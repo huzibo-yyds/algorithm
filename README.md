@@ -32,7 +32,15 @@
 
 
 
-# Git
+# Git使用
+
+
+
+```shell
+# 查看本地git配置
+git config --global --list
+
+```
 
 
 
@@ -57,3 +65,16 @@ git branch -M main
 git push -u origin main
 ```
 
+
+
+
+
+### 问题
+
+> 不支持
+
+remote: Support for password authentication was removed on August 13, 2021.
+
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+
+致命错误：'https://github.com/huzibo-yyds/algorithm.git/' 鉴权失败
