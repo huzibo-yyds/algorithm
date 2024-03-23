@@ -14,7 +14,13 @@
 
 
 
+# 刷题列表
 
+
+
+## 牛客
+
++ [华为机试](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=37&type=37)
 
 
 
